@@ -1,0 +1,14 @@
+C:\Users\Nikola Sajic\source\repos\Vezbanje05_07\Kviz\bin\Debug\net8.0\Kviz.exe
+C:\Users\Nikola Sajic\source\repos\Vezbanje05_07\Kviz\bin\Debug\net8.0\Kviz.deps.json
+C:\Users\Nikola Sajic\source\repos\Vezbanje05_07\Kviz\bin\Debug\net8.0\Kviz.runtimeconfig.json
+C:\Users\Nikola Sajic\source\repos\Vezbanje05_07\Kviz\bin\Debug\net8.0\Kviz.dll
+C:\Users\Nikola Sajic\source\repos\Vezbanje05_07\Kviz\bin\Debug\net8.0\Kviz.pdb
+C:\Users\Nikola Sajic\source\repos\Vezbanje05_07\Kviz\obj\Debug\net8.0\Kviz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikola Sajic\source\repos\Vezbanje05_07\Kviz\obj\Debug\net8.0\Kviz.AssemblyInfoInputs.cache
+C:\Users\Nikola Sajic\source\repos\Vezbanje05_07\Kviz\obj\Debug\net8.0\Kviz.AssemblyInfo.cs
+C:\Users\Nikola Sajic\source\repos\Vezbanje05_07\Kviz\obj\Debug\net8.0\Kviz.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Sajic\source\repos\Vezbanje05_07\Kviz\obj\Debug\net8.0\Kviz.dll
+C:\Users\Nikola Sajic\source\repos\Vezbanje05_07\Kviz\obj\Debug\net8.0\refint\Kviz.dll
+C:\Users\Nikola Sajic\source\repos\Vezbanje05_07\Kviz\obj\Debug\net8.0\Kviz.pdb
+C:\Users\Nikola Sajic\source\repos\Vezbanje05_07\Kviz\obj\Debug\net8.0\Kviz.genruntimeconfig.cache
+C:\Users\Nikola Sajic\source\repos\Vezbanje05_07\Kviz\obj\Debug\net8.0\ref\Kviz.dll
